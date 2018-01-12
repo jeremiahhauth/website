@@ -5,7 +5,7 @@ description: >
 copyright: Anna White
 sass:
   sass_dir: assets/sass
-url: http://localhost:4000
+url: ''
 disqus_shortname: stratajekylldemo
 facebook_username:
 twitter_username: "#"
@@ -13,8 +13,8 @@ linkedin_username: "anna-white-80a169128"
 instagram_username:
 pinterest_username:
 flickr_username:
-github_username:  "#"
-gscholar: https://scholar.google.co.nz/citations?hl=en&view_op=list_works&gmla=AJsN-F7ua45BO8i1DHccKCUj7VPZqMzoZxfTFasDQNl2_V7GtlfsDKuC70DN5-8fIn8VadBbpoEfmI9BTw5FwKbSHXWa_N0IKA&user=NqnK14EAAAAJ
+github_username:  "agracew"
+scholar_username: ''
 # feed_icon: rss
 email: "agracew@umich.edu"
 gems: [jekyll-paginate]
