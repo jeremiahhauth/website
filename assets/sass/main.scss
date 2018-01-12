@@ -1000,6 +1000,25 @@
 		}
 	}
 
+	#main-half {
+		margin-left: $size-header-width;
+		// max-width: 50em + $size-header-pad;
+		// padding: ($size-header-pad * 2) $size-header-pad $size-header-pad $size-header-pad;
+		// width: calc(100% - #{$size-header-width});
+
+		> section {
+			border-top: solid 2px _palette(border);
+			margin: $size-header-pad 0 0 0;
+			padding: $size-header-pad 0 0 0;
+
+			&:first-child {
+				border-top: 0;
+				margin-top: 0;
+				padding-top: 0;
+			}
+		}
+	}
+
 /* Poptrox */
 
 	@include keyframes('spin') {
@@ -1234,6 +1253,13 @@
 				width: calc(100% - #{$size-header-width});
 			}
 
+			#main-half {
+				margin-left: $size-header-width;
+				// max-width: none;
+				// padding: ($size-header-pad * 2) $size-header-pad $size-header-pad $size-header-pad;
+				// width: calc(100% - #{$size-header-width});
+			}
+
 	}
 
 /* Medium */
@@ -1325,6 +1351,12 @@
 				width: 100%;
 			}
 
+			#main-half {
+				margin: 0;
+				// padding: ($size-header-pad * 1.5) $size-header-pad;
+				width: 100%;
+			}
+
 	}
 
 /* Small */
@@ -1397,6 +1429,15 @@
 
 			#main {
 				padding: ($size-header-pad * 1.5) $size-header-pad (($size-header-pad * 1.5) - _size(element-margin)) $size-header-pad;
+
+				> section {
+					margin: ($size-header-pad * 1.5) 0 0 0;
+					padding: ($size-header-pad * 1.5) 0 0 0;
+				}
+			}
+
+			#main-half {
+				padding: 0;
 
 				> section {
 					margin: ($size-header-pad * 1.5) 0 0 0;
