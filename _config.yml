@@ -8,13 +8,13 @@ sass:
 url: ''
 disqus_shortname: stratajekylldemo
 facebook_username:
-twitter_username:
+twitter_username: "annnnagrace"
 linkedin_username: "anna-white-80a169128"
 instagram_username:
 pinterest_username:
 flickr_username:
 github_username:  "agracew"
-scholar_username: 
+scholar_username:
 # feed_icon: rss
 email: "agracew@umich.edu"
 gems: [jekyll-paginate]
