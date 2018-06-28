@@ -31,10 +31,12 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
   <header class="major">
   <h3>Poem</h3>
   </header>
+  <!-- this is a way to do it if I have a good picture for the poem
     <article class="image left">
       <a href="{{ site.github.url }}/images/blog/June/home_warsan_shire.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/blog/June/05.jpg" alt="" /></a>
       <h3>Read here</h3>
     </article>
+    --->
     <h5><a href="{{ site.github.url }}/images/blog/June/home_warsan_shire.jpg">Home by Warsan Shire</a></h5>
     <p>This one is particularly relevant this month as our country grapples with our past, present, and future decisions around immigration. This poem breaks my heart every time I read it, but I think it's so important for everyone to read and reread and remind ourselves of the choices being made by others that we may not even be able to conceptualize.</p>
   <hr />
@@ -83,7 +85,7 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
 <header class="major">
   <h3>Activity</h3>
   </header>
-  <h5>International Conference on Transport and Health 2018</h5>
+  <h4>International Conference on Transport and Health 2018</h4>
   <p>This month, I had the privilege to attend this fun and interesting conference on Mackinac Island, which I have to say is one of the coolest places I've ever been. There are no cars on this island that is 8 miles in circumference, so all transportation is through walking or non-motorized transport like horse-drawn carriages and bicycles, which was perfect for the theme of the conference. There are also twelve(12!) fudge shops on this tiny island, which I suppose was less perfect for the health theme. I was able to bring my mom with me, which made it even more fun, and she helped me identify all the <b>beautiful</b> flowers that were literally everywhere. We saw beautiful sunsets, and I got to bike and run around the island during my free time away from the conference. I also got to present my research on the health patterns associated with historic discriminatory housing policy, which I hope to be able to share soon!</p>
 
   <p>Here are just a few pictures from our trip that don't nearly do it justice:</p>
@@ -91,7 +93,7 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
     <div class="row 50% uniform">
       <div class="12u$"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7109.jpg" alt="" /></span></div>
       <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7208.jpg" alt="" /></span></div>
-      <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7211.jpg" alt="" /></span></div>
+      <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7064.jpg" alt="" /></span></div>
       <div class="4u$"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7245.jpg" alt="" /></span></div>
       <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7273.jpg" alt="" /></span></div>
       <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7282.jpg" alt="" /></span></div>
@@ -101,12 +103,12 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
       <div class="4u$"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_6987.jpg" alt="" /></span></div>
       <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7345.jpg" alt="" /></span></div>
       <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7349.jpg" alt="" /></span></div>
-      <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7355.jpg" alt="" /></span></div>
+      <div class="4u$"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7355.jpg" alt="" /></span></div>
     </div>
   </div>
   <hr />
 </section>
 
-<!--- food/drink --->
+<!--- food/drink/recipe --->
 
 <!--- fun fact --->
