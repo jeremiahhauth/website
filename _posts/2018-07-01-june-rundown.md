@@ -16,12 +16,13 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
     <!-- <ul class="actions">
       <li><a href="#" class="button">Learn More</a></li>
     </ul> -->
+    <hr />
   </section>
 
 <!-- Two -->
   <section id="two">
   <header class="major">
-  <h2>Poem</h2>
+  <h3>Poem</h3>
   </header>
   <p>This one is particularly relevant this month as our country grapples with our past,
   present, and future decisions around immigration. This poem breaks my heart every
