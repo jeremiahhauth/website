@@ -11,7 +11,7 @@ as I continue, but this is what I have for now!
 
 ## Poem
 ### Home by Warsan Shire
-![Home by Warsan Shire](/images/awhite.jpg)
+![Home by Warsan Shire](/images/blog/June/home_warsan_shire.jpg)
 This one is particularly relevant this month as our country grapples with our past,
 present, and future decisions around immigration. This poem breaks my heart every
 time I read it, but I think it's so important for everyone to read and reread and
@@ -20,10 +20,12 @@ to conceptualize.
 
 ## Music
 ### "Make Me Feel" by Janelle Monae
+<iframe src="https://open.spotify.com/embed/track/5gW5dSy3vXJxgzma4rQuzH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 This whole album is so fun and great! But this song is the one I've definitely kept
 on repeat this month.
 
-### "Dining Alone" by Shakey Graves
+### "Dining Alone" by Shakey
+<iframe src="https://open.spotify.com/embed/track/3JSlnsGTuO1tAMpgWy7tBz" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 I got to see him live at the end of May, and this song hadn't stuck out to me until
 he performed it, explained it, and acted it out. It was great.
 
