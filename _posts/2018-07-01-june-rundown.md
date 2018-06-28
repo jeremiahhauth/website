@@ -1,54 +1,45 @@
 ---
 layout: post
-title: 'June roundup'
-categories: Monthly roundup
+title: 'June rundown'
+categories: monthly rundown
 excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 2018'
 ---
 
-Hello everyone! I'm starting a new monthly blog post where I reflect on my favorite
-things from the month and look forward into my next month. I may add more categories
-as I continue, but this is what I have for now!
+<!-- One -->
+  <section id="one">
+    <!-- <header class="major">
+      <h2>Ipsum lorem dolor aliquam ante commodo<br />
+      magna sed accumsan arcu neque.</h2>
+    </header> -->
+    <p>Hello everyone! I'm starting a new monthly blog post where I reflect on my favorite
+    things from the month and look forward into my next month. I may add more categories
+    as I continue, but this is what I have for now!</p>
+    <!-- <ul class="actions">
+      <li><a href="#" class="button">Learn More</a></li>
+    </ul> -->
+  </section>
 
-## Poem
-### Home by Warsan Shire
-![Home by Warsan Shire](/images/blog/June/home_warsan_shire.jpg)
-This one is particularly relevant this month as our country grapples with our past,
-present, and future decisions around immigration. This poem breaks my heart every
-time I read it, but I think it's so important for everyone to read and reread and
-remind ourselves of the choices being made by others that we may not even be able
-to conceptualize.
-
-## Music
-### "Make Me Feel" by Janelle Monae
-<iframe src="https://open.spotify.com/embed/track/5gW5dSy3vXJxgzma4rQuzH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-This whole album is so fun and great! But this song is the one I've definitely kept
-on repeat this month.
-
-### "Dining Alone" by Shakey
-<iframe src="https://open.spotify.com/embed/track/3JSlnsGTuO1tAMpgWy7tBz" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-I got to see him live at the end of May, and this song hadn't stuck out to me until
-he performed it, explained it, and acted it out. It was great.
-
-### "The Deep" by clipping.
-<iframe src="https://open.spotify.com/embed/track/6LHGNimbsz8tabfUDSujvH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-There is so much going on in this song! It's great! And a quick preview to the podcast
-section - Switched on Pop is the reason I know about this song, and they have a great
-episode about it.
-
-## Article
-
-## Podcast
-
-### Switched on Pop
-#### Afrofuturism in Kali Uchis & Clipping (with Daveed Diggs, William Hutson and Jonathan Snipes)
-<iframe src="https://player.megaphone.fm/PPY9663725077?light=true" width="100%" height="200" frameborder="no" scrolling="no"></iframe>
-
-Shout out to Adam Vandusen for recommending this podcast to me!! (This will likely
-  be a common theme of my podcast section - he has the best podcast recs). I've already
-  told so many people about this podcast because I absolutely love it. They break down pop songs to understand all the cool hidden elements in them that we hear but may never notice. This was the first episode I heard, but so far I have listened to as many as I could and loved them all (except one).
-
-## Activity
-
-## New food/drink
-
-## Fun fact
+  <!-- Two -->
+  	<section id="two">
+  		<h2>Recent Work</h2>
+  		<div class="row">
+  			<article class="6u$ 12u$(xsmall) work-item">
+  				<a href="{{ site.github.url }}/images/fulls/04.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/thumbs/04.jpg" alt="" /></a>
+  				<h3>Quam neque phasellus</h3>
+  				<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+  			</article>
+  			<article class="6u 12u$(xsmall) work-item">
+  				<a href="{{ site.github.url }}/images/fulls/05.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/thumbs/05.jpg" alt="" /></a>
+  				<h3>Nunc enim commodo aliquet</h3>
+  				<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+  			</article>
+  			<article class="6u$ 12u$(xsmall) work-item">
+  				<a href="{{ site.github.url }}/images/fulls/06.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/thumbs/06.jpg" alt="" /></a>
+  				<h3>Risus ornare lacinia</h3>
+  				<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+  			</article>
+  		</div>
+  		<ul class="actions">
+  			<li><a href="#" class="button">Full Portfolio</a></li>
+  		</ul>
+  	</section>
