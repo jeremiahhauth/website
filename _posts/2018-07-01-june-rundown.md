@@ -17,10 +17,10 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
   <section id="article">
   <header class="major">
   <h3>Article or otherwise useful academic resource</h3>
-  <p>Is it bad that this will sometimes be a tweet? The people I follow are so helpful! This section is intended to be an interesting or thought provoking journal article or news article that I read during the month.</p>
+  <p>This section is intended to be an interesting or thought provoking journal article or news article that I read during the month. Is it bad that this will sometimes be a tweet? The people I follow are so helpful!</p>
   </header>
 
-    <h5><a href="https://www.wired.com/story/palmer-luckey-anduril-border-wall/?ex_cid=SigDig" target="_blank">Inside Palmer Luckey's Bid to Build a Border Wall by Steven Levy</a></h5>
+    <h5><a href="https://www.wired.com/story/palmer-luckey-anduril-border-wall/?ex_cid=SigDig" target="blank">Inside Palmer Luckey's Bid to Build a Border Wall by Steven Levy</a></h5>
   <p><span class="image left"><img src="{{ site.github.url}}/images/blog/June/article_thumb.jpg" alt="" /></span>This month, I read an article that once again made me wonder what our future will look like as we continue to develop new technology at the rate we are. We often whisper about the ethics involved, but articles like this make me wonder how often those whispers make it to the decision-making table.</p>
 
   <hr />
@@ -78,6 +78,13 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
 </section>
 
 <!--- activity --->
+<section id="activity">
+<header class="major">
+  <h3>Activity</h3>
+  </header>
+  <h5>International Conference on Transport and Health 2018</h5>
+  <hr />
+</section>
 
 <!--- food/drink --->
 
