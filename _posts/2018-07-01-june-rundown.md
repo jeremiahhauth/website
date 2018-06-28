@@ -37,25 +37,24 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
 <header class="major">
 <h3>Music</h3>
 </header>
-<div class="row">
-  <div class="6u 12u$(xsmall)">
-<h5>"Make Me Feel" by Janelle Monae</h5>
-<iframe src="https://open.spotify.com/embed/track/5gW5dSy3vXJxgzma4rQuzH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</div>
-<div class="6u$ 12u$(xsmall)">
-<p>This whole album is so fun and great! But this song is the one I've definitely kept
-on repeat this month.</p>
-</div>
-</div>
+  <div class="row">
+    <div class="6u 12u$(xsmall)">
+    <h5>"Make Me Feel" by Janelle Monae</h5>
+    <iframe src="https://open.spotify.com/embed/track/5gW5dSy3vXJxgzma4rQuzH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    </div>
+    <div class="6u$ 12u$(xsmall)">
+    <p><br><br><br>This whole album is so fun and great! But this song is the one I've definitely kept on repeat this month.</p>
+    </div>
+  </div>
 
-<h5>"Dining Alone" by Shakey Graves</h5>
-<iframe src="https://open.spotify.com/embed/track/3JSlnsGTuO1tAMpgWy7tBz" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<p>I got to see him live at the end of May, and this song hadn't stuck out to me until
-he performed it, explained it, and acted it out. It was great.</p>
+  <h5>"Dining Alone" by Shakey Graves</h5>
+  <iframe src="https://open.spotify.com/embed/track/3JSlnsGTuO1tAMpgWy7tBz" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <p>I got to see him live at the end of May, and this song hadn't stuck out to me until
+  he performed it, explained it, and acted it out. It was great.</p>
 
-<h5>"The Deep" by clipping.</h5>
-<iframe src="https://open.spotify.com/embed/track/6LHGNimbsz8tabfUDSujvH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<p>There is so much going on in this song! It's great! And a quick preview to the podcast section - Switched on Pop is the reason I know about this song, and they have a great episode about it.</p>
+  <h5>"The Deep" by clipping.</h5>
+  <iframe src="https://open.spotify.com/embed/track/6LHGNimbsz8tabfUDSujvH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <p>There is so much going on in this song! It's great! And a quick preview to the podcast section - Switched on Pop is the reason I know about this song, and they have a great episode about it.</p>
 <hr />
 </section>
 
