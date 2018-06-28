@@ -11,6 +11,7 @@ as I continue, but this is what I have for now!
 
 ## Poem
 ### Home by Warsan Shire
+![Home by Warsan Shire](/images/blog/June/home_warsan_shire.jpg)
 This one is particularly relevant this month as our country grapples with our past,
 present, and future decisions around immigration. This poem breaks my heart every
 time I read it, but I think it's so important for everyone to read and reread and
