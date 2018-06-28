@@ -4,27 +4,30 @@ title: 'June rundown'
 categories: monthly rundown
 excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 2018'
 ---
+<!--- intro section --->
   <section id="one">
-    <!-- <header class="major">
-      <h2>Ipsum lorem dolor aliquam ante commodo<br />
-      magna sed accumsan arcu neque.</h2>
-    </header> -->
     <p>Hello everyone! I'm starting a new monthly blog post where I reflect on my favorite
     things from the month and look forward into my next month. I may add more categories
     as I continue, but this is what I have for now!</p>
-    <!-- <ul class="actions">
-      <li><a href="#" class="button">Learn More</a></li>
-    </ul> -->
+
     <hr />
   </section>
 
+<!--- article --->
   <section id="article">
   <header class="major">
-  <h3>Article</h3>
+  <h3>Article or otherwise useful academic resource</h3>
+  <p>Is it bad that this will sometimes be a tweet? The people I follow are so helpful! This section is intended to be an interesting or thought provoking journal article or news article that I read during the month.</p>
   </header>
+  <article class="6u 12u$(xsmall) work-item">
+    <a href="https://www.wired.com/story/palmer-luckey-anduril-border-wall/?ex_cid=SigDig" class="image fit thumb"><img src="{{ site.github.url }}/images/blog/June/05.jpg" alt="" /></a>
+    <h3> </h3>
+    </article>
+  <p>This month, I read an article that once again made me wonder what our future will look like as we continue to develop new technology at the rate we are. We often whisper about the ethics involved, but articles like this make me wonder how often those whispers make it to the decision-making table.</p>
   <hr />
   </section>
 
+<!--- poem --->
   <section id="poem">
   <header class="major">
   <h3>Poem</h3>
@@ -37,14 +40,13 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
   <hr />
   </section>
 
+<!--- music --->
 <section id="music">
 <header class="major">
 <h3>Music</h3>
 </header>
   <h5>"Make Me Feel" by Janelle Monae</h5>
   <iframe src="https://open.spotify.com/embed/track/5gW5dSy3vXJxgzma4rQuzH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  </div>
-  <div class="6u$ 12u$(xsmall)">
   <p>This whole album is so fun and great! But this song is the one I've definitely kept on repeat this month.</p>
   <br>
 
@@ -60,7 +62,7 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
 <hr />
 </section>
 
-
+<!--- podcast --->
 <section id="pod">
 <header class="major">
   <h3>Podcast</h3>
@@ -75,3 +77,9 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
     be a common theme of my podcast section - he has great podcast recs). I've already told so many people about this podcast because I absolutely love it. They break down pop songs to understand all the cool hidden elements in them that we hear but may never notice. This was the first episode I heard, but so far I have listened to as many as I could and loved them all (except one).</p>
   <hr />
 </section>
+
+<!--- activity --->
+
+<!--- food/drink --->
+
+<!--- fun fact --->
