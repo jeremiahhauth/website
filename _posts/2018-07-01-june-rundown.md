@@ -84,6 +84,26 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
   <h3>Activity</h3>
   </header>
   <h5>International Conference on Transport and Health 2018</h5>
+  <p>This month, I had the privilege to attend this fun and interesting conference on Mackinac Island, which I have to say is one of the coolest places I've ever been. There are no cars on this island that is 8 miles in circumference, so all transportation is through walking or non-motorized transport like horse-drawn carriages and bicycles, which was perfect for the theme of the conference. There are also twelve(12!) fudge shops on this tiny island, which I suppose was less perfect for the health theme. I was able to bring my mom with me, which made it even more fun, and she helped me identify all the <b>beautiful</b> flowers that were literally everywhere. We saw beautiful sunsets, and I got to bike and run around the island during my free time away from the conference. I also got to present my research on the health patterns associated with historic discriminatory housing policy, which I hope to be able to share soon!</p>
+
+  <p>Here are just a few pictures from our trip that don't nearly do it justice:</p>
+  <div class="box alt">
+    <div class="row 50% uniform">
+      <div class="12u$"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7109.jpg" alt="" /></span></div>
+      <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7208.jpg" alt="" /></span></div>
+      <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7211.jpg" alt="" /></span></div>
+      <div class="4u$"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7245.jpg" alt="" /></span></div>
+      <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7273.jpg" alt="" /></span></div>
+      <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7282.jpg" alt="" /></span></div>
+      <div class="4u$"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7327.jpg" alt="" /></span></div>
+      <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7335.jpg" alt="" /></span></div>
+      <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7361.jpg" alt="" /></span></div>
+      <div class="4u$"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_6987.jpg" alt="" /></span></div>
+      <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7345.jpg" alt="" /></span></div>
+      <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7349.jpg" alt="" /></span></div>
+      <div class="4u"><span class="image fit"><img src="{{ site.github.url }}/images/blog/June/IMG_7355.jpg" alt="" /></span></div>
+    </div>
+  </div>
   <hr />
 </section>
 
