@@ -28,6 +28,7 @@ I got to see him live at the end of May, and this song hadn't stuck out to me un
 he performed it, explained it, and acted it out. It was great.
 
 ### "The Deep" by clipping.
+<iframe src="https://open.spotify.com/embed/track/6LHGNimbsz8tabfUDSujvH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 There is so much going on in this song! It's great! And a quick preview to the podcast
 section - Switched on Pop is the reason I know about this song, and they have a great
 episode about it.
