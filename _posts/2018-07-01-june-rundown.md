@@ -46,6 +46,7 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
 <p>This whole album is so fun and great! But this song is the one I've definitely kept
 on repeat this month.</p>
 </div>
+</div>
 
 <h5>"Dining Alone" by Shakey Graves</h5>
 <iframe src="https://open.spotify.com/embed/track/3JSlnsGTuO1tAMpgWy7tBz" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
