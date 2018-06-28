@@ -19,11 +19,15 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
   <h3>Article or otherwise useful academic resource</h3>
   <p>Is it bad that this will sometimes be a tweet? The people I follow are so helpful! This section is intended to be an interesting or thought provoking journal article or news article that I read during the month.</p>
   </header>
-  <article class="6u 12u$(xsmall) work-item">
-    <a href="https://www.wired.com/story/palmer-luckey-anduril-border-wall/?ex_cid=SigDig" class="image fit thumb"><img src="{{ site.github.url }}/images/blog/June/05.jpg" alt="" /></a>
-    <h3> </h3>
+  <!---<article class="6u 12u$(xsmall) work-item"> --->
+  <article class="image left">
+    <a href="https://www.wired.com/story/palmer-luckey-anduril-border-wall/?ex_cid=SigDig" class="image fit thumb"><img src="{{ site.github.url }}/images/blog/June/article_thumb.jpg" alt="" /></a>
+    <h3>Inside Palmer Luckey's Bid to Build a Border Wall by Steven Levy</h3>
     </article>
   <p>This month, I read an article that once again made me wonder what our future will look like as we continue to develop new technology at the rate we are. We often whisper about the ethics involved, but articles like this make me wonder how often those whispers make it to the decision-making table.</p>
+
+  <p><span class="image left"><img src="{{ site.github.url}}/images/blog/June/article_thumb.jpg" alt="" /></span>This month, I read an article that once again made me wonder what our future will look like as we continue to develop new technology at the rate we are. We often whisper about the ethics involved, but articles like this make me wonder how often those whispers make it to the decision-making table.</p>
+
   <hr />
   </section>
 
