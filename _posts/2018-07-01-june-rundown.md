@@ -38,10 +38,14 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
 <h3>Music</h3>
 </header>
 <div class="row">
+  <div class="6u 12u$(xsmall)">
 <h5>"Make Me Feel" by Janelle Monae</h5>
 <iframe src="https://open.spotify.com/embed/track/5gW5dSy3vXJxgzma4rQuzH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
+<div class="6u$ 12u$(xsmall)">
 <p>This whole album is so fun and great! But this song is the one I've definitely kept
 on repeat this month.</p>
+</div>
 
 <h5>"Dining Alone" by Shakey Graves</h5>
 <iframe src="https://open.spotify.com/embed/track/3JSlnsGTuO1tAMpgWy7tBz" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
@@ -51,8 +55,22 @@ he performed it, explained it, and acted it out. It was great.</p>
 <h5>"The Deep" by clipping.</h5>
 <iframe src="https://open.spotify.com/embed/track/6LHGNimbsz8tabfUDSujvH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <p>There is so much going on in this song! It's great! And a quick preview to the podcast section - Switched on Pop is the reason I know about this song, and they have a great episode about it.</p>
-</div>
 <hr />
 </section>
 
 <!-- Four -->
+<section id="four">
+<header class="major">
+  <h3>Podcast</h3>
+  </header>
+  <header>
+    <h5>Switched on Pop</h5>
+    <p>Afrofuturism in Kali Uchis & Clipping (with Daveed Diggs, William Hutson and Jonathan Snipes)</p>
+  </header>
+  <iframe src="https://player.megaphone.fm/PPY9663725077?light=true" width="100%" height="200" frameborder="no" scrolling="no"></iframe>
+
+  <p>Shout out to Adam Vandusen for recommending this podcast to me!! (This will likely
+    be a common theme of my podcast section - he has the best podcast recs). I've already
+    told so many people about this podcast because I absolutely love it. They break down pop songs to understand all the cool hidden elements in them that we hear but may never notice. This was the first episode I heard, but so far I have listened to as many as I could and loved them all (except one).</p>
+  <hr />
+  </section>
