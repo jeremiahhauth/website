@@ -35,6 +35,7 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
       <a href="{{ site.github.url }}/images/blog/June/home_warsan_shire.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/blog/June/05.jpg" alt="" /></a>
       <h3>Read here</h3>
     </article>
+    <h5><a href="{{ site.github.url }}/images/blog/June/home_warsan_shire.jpg">Home by Warsan Shire</a></h5>
     <p>This one is particularly relevant this month as our country grapples with our past, present, and future decisions around immigration. This poem breaks my heart every time I read it, but I think it's so important for everyone to read and reread and remind ourselves of the choices being made by others that we may not even be able to conceptualize.</p>
   <hr />
   </section>
