@@ -4,7 +4,6 @@ title: 'June rundown'
 categories: monthly rundown
 excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 2018'
 ---
-<!-- One -->
   <section id="one">
     <!-- <header class="major">
       <h2>Ipsum lorem dolor aliquam ante commodo<br />
@@ -19,8 +18,14 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
     <hr />
   </section>
 
-<!-- Two -->
-  <section id="two">
+  <section id="article">
+  <header class="major">
+  <h3>Article</h3>
+  </header>
+  <hr />
+  </section>
+
+  <section id="poem">
   <header class="major">
   <h3>Poem</h3>
   </header>
@@ -32,25 +37,22 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
   <hr />
   </section>
 
-<!-- Three -->
-<section id="three">
+<section id="music">
 <header class="major">
 <h3>Music</h3>
 </header>
-  <div class="row">
-    <div class="6u 12u$(xsmall)">
-    <h5>"Make Me Feel" by Janelle Monae</h5>
-    <iframe src="https://open.spotify.com/embed/track/5gW5dSy3vXJxgzma4rQuzH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-    </div>
-    <div class="6u$ 12u$(xsmall)">
-    <p><br><br><br>This whole album is so fun and great! But this song is the one I've definitely kept on repeat this month.</p>
-    </div>
+  <h5>"Make Me Feel" by Janelle Monae</h5>
+  <iframe src="https://open.spotify.com/embed/track/5gW5dSy3vXJxgzma4rQuzH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   </div>
+  <div class="6u$ 12u$(xsmall)">
+  <p>This whole album is so fun and great! But this song is the one I've definitely kept on repeat this month.</p>
+  <br>
 
   <h5>"Dining Alone" by Shakey Graves</h5>
   <iframe src="https://open.spotify.com/embed/track/3JSlnsGTuO1tAMpgWy7tBz" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   <p>I got to see him live at the end of May, and this song hadn't stuck out to me until
   he performed it, explained it, and acted it out. It was great.</p>
+  <br>
 
   <h5>"The Deep" by clipping.</h5>
   <iframe src="https://open.spotify.com/embed/track/6LHGNimbsz8tabfUDSujvH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
@@ -58,8 +60,8 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
 <hr />
 </section>
 
-<!-- Four -->
-<section id="four">
+
+<section id="pod">
 <header class="major">
   <h3>Podcast</h3>
   </header>
@@ -70,7 +72,6 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
   <iframe src="https://player.megaphone.fm/PPY9663725077?light=true" width="100%" height="200" frameborder="no" scrolling="no"></iframe>
 
   <p>Shout out to Adam Vandusen for recommending this podcast to me!! (This will likely
-    be a common theme of my podcast section - he has the best podcast recs). I've already
-    told so many people about this podcast because I absolutely love it. They break down pop songs to understand all the cool hidden elements in them that we hear but may never notice. This was the first episode I heard, but so far I have listened to as many as I could and loved them all (except one).</p>
+    be a common theme of my podcast section - he has great podcast recs). I've already told so many people about this podcast because I absolutely love it. They break down pop songs to understand all the cool hidden elements in them that we hear but may never notice. This was the first episode I heard, but so far I have listened to as many as I could and loved them all (except one).</p>
   <hr />
-  </section>
+</section>
