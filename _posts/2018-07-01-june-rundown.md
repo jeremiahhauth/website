@@ -41,6 +41,8 @@ episode about it.
 
 ### Switched on Pop
 #### Afrofuturism in Kali Uchis & Clipping (with Daveed Diggs, William Hutson and Jonathan Snipes)
+<iframe src="https://player.megaphone.fm/PPY9663725077?light=true" width="100%" height="200" frameborder="no" scrolling="no"></iframe>
+
 Shout out to Adam Vandusen for recommending this podcast to me!! (This will likely
   be a common theme of my podcast section - he has the best podcast recs). I've already
   told so many people about this podcast because I absolutely love it. They break down pop songs to understand all the cool hidden elements in them that we hear but may never notice. This was the first episode I heard, but so far I have listened to as many as I could and loved them all (except one).
