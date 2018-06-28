@@ -24,9 +24,10 @@ excerpt: 'My favorite article, poem, songs, activity, fun fact, ..., in June 201
   <header class="major">
   <h3>Poem</h3>
   </header>
-  <p>This one is particularly relevant this month as our country grapples with our past,
-  present, and future decisions around immigration. This poem breaks my heart every
-  time I read it, but I think it's so important for everyone to read and reread and
-  remind ourselves of the choices being made by others that we may not even be able
-  to conceptualize.</p>
+  <article class="6u 12u$(xsmall) work-item">
+    <a href="{{ site.github.url }}/images/blog/June/05.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/blog/June/home_warsan_shire.jpg" alt="" /></a>
+    <p>This one is particularly relevant this month as our country grapples with our past, present, and future decisions around immigration. This poem breaks my heart every time I read it, but I think it's so important for everyone to read and reread and remind ourselves of the choices being made by others that we may not even be able to conceptualize.</p>
+  </article>
+
+  <hr />
   </section>
