@@ -264,17 +264,23 @@ because it's the one that stuck out most from the concert.</p>
     moments I caught in a picture.</p>
     <header>
 
+      <!--- a different way to do pop-up pics but it's inconsistent --->
       <!-- Trigger the Modal -->
-      <img id="myImg" src="{{ site.github.url }}/images/blog/June/laundry.JPG" alt="oops" style="width:80%;max-width:300px">
-      <!-- The Modal -->
-      <div id="myModal" class="modal">
-        <!-- The Close Button -->
-        <span class="close">&times;</span>
-      <!-- Modal Content (The Image) -->
-        <img class="modal-content" id="img01">
-      <!-- Modal Caption (Image Text) -->
-        <div id="caption"></div>
+      <!--<img id="myImg" src="{{ site.github.url }}/images/blog/June/laundry.JPG" alt="" style="width:80%;max-width:300px">
+      <!--- The Modal --->
+      <!--<div id="myModal" class="modal">
+        <!--- The Close Button --->
+        <!--<span class="close">&times;</span>
+      <!--- Modal Content (The Image) --->
+        <!--<img class="modal-content" id="img01">
+      <!--- Modal Caption (Image Text) --->
+        <!--<div id="caption"></div>
       </div>
+      --->
+      <article class="6u 12u$(small) work-item">
+        <a href="{{ site.github.url }}/images/blog/June/laundry.JPG"
+        class="image fit thumb"><img src="{{ site.github.url }}/images/blog/June/laundry.JPG" alt="" /></a>
+      </article>
 
       <br>
       <p>Two laundry updates, because apparently I like to talk about laundry a lot:</p>
