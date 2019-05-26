@@ -1,22 +1,22 @@
-title: Anna White
+title: Jeremiah Hauth
 description: >
-  Anna White is a PhD student in Industrial and Operations Engineering,
+  Jeremiah Hauth is a PhD student in Mechanical Engineering,
   University of Michigan, Ann Arbor.
-copyright: Anna White
+copyright: Jeremiah Hauth
 sass:
   sass_dir: assets/sass
 url: ''
-disqus_shortname: stratajekylldemo
+disqus_shortname:
 facebook_username:
-twitter_username: "anna_g_white"
-linkedin_username: "anna-white-80a169128"
+twitter_username: "jeremiahhauth"
+linkedin_username:
 instagram_username:
 pinterest_username:
 flickr_username:
-github_username:  "agracew"
+github_username:  "jeremiahhauth"
 scholar_username:
 # feed_icon: rss
-email: "agracew@umich.edu"
+email: "hauthj@umich.edu"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
